@@ -1,2 +1,2 @@
-# machne-learning
+# ml
 lab programs
